@@ -1,0 +1,11 @@
+[
+  {
+    "name": "ASTANA", 
+    "host": "188.127.241.74:3516",
+    "port": 3516,
+    "user": "gs37531", 
+    "password": "user909336", 
+    "database": "GCb9fK72cg1b", 
+    "table": "accounts"
+  }
+]
