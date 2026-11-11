@@ -1,0 +1,4 @@
+aiogram>=3.13,<4
+aiomysql>=0.2.0
+cryptography>=42
+python-dotenv>=1.0
